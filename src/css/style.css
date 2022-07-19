@@ -42,7 +42,7 @@ h2.title {
 }
 
 .title {
-    font-family: 'Roboto';
+    font-family: 'DIN Pro Regular',sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 41px;
@@ -55,7 +55,7 @@ h2.title {
 .simple .title_big {
     text-align: center;
     margin-top: 21px;
-    font-family: 'Roboto';
+    font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 80px;
@@ -66,7 +66,7 @@ h2.title {
 
 .promo .promo_text {
     margin-top: 23px;
-    ont-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 21px;
     font-weight: 300;
     font-stretch: normal;
@@ -110,7 +110,7 @@ h2.title {
 }
 
 .more .more_text {
-    font-family: Roboto;
+    font-family: Roboto,sans-serif;
     font-size: 15px;
     font-weight: 100;
     font-stretch: normal;
@@ -133,7 +133,7 @@ h2.title {
 
 .waiting .waiting_header, .finish .finish_header {
     margin: 0 284px 18px 292px;
-    font-family: Roboto;
+    font-family: 'Roboto',sans-serif;
     font-size: 30px;
     font-weight: normal;
     font-stretch: normal;
@@ -155,7 +155,7 @@ h2.title {
 }
 
 .waiting .waiting_subheader {
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 23px;
     font-weight: normal;
     font-stretch: normal;
@@ -178,7 +178,7 @@ h2.title {
 
 .waiting .waiting_wrapper .waiting_descr {
     margin-top: 33px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 15px;
     font-weight: 300;
     font-stretch: normal;
@@ -200,7 +200,7 @@ h2.title {
 
 .optimization .optimization_header {
     margin-left: 391px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 30px;
     font-weight: 900;
     font-stretch: normal;
@@ -214,7 +214,7 @@ h2.title {
 .optimization .optimization_text {
     margin-top: 25px;
     margin-left: 391px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 17px;
     font-weight: 300;
     font-stretch: normal;
@@ -269,7 +269,7 @@ h2.title {
 
 .finish .finish_wrapper .finish_item .finish_decr {
     margin-top: 25px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 17px;
     font-weight: 300;
     font-stretch: normal;
@@ -295,7 +295,7 @@ h2.title {
 .prev_section .prev_descr {
     width: 1131px;
     height: 115px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 30px;
     font-weight: normal;
     font-stretch: normal;
@@ -316,7 +316,7 @@ h2.title {
     border: solid 4px rgba(0, 0, 0, 0.11);
     background-image: linear-gradient(to top, #2798b9, #3ab6da);
     text-shadow: -0.7px -0.7px 0 rgba(0, 0, 0, 0.22);
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 21px;
     font-weight: normal;
     font-stretch: condensed;
@@ -341,7 +341,7 @@ h2.title {
     text-align: center;
 }
 .last .last_text span.first{
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 30px;
     font-weight: normal;
     font-stretch: normal;
@@ -355,7 +355,7 @@ h2.title {
 .last .last_text span.second{
     display: block;
     margin-top: 30px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 36px;
     font-weight: 900;
     font-stretch: normal;
@@ -369,7 +369,7 @@ h2.title {
 .last .last_text span.third{
     display: block;
     margin-top: 25px;
-    font-family: Roboto;
+    font-family: 'Roboto ',sans-serif;
     font-size: 23px;
     font-weight: normal;
     font-stretch: normal;
